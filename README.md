@@ -1,2 +1,2 @@
 # Responsive Design
-Creating a responsive page using `CSS` (@media).
+Creating a responsive page using `CSS` (@media query).
