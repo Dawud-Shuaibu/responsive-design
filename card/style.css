@@ -39,12 +39,7 @@
     background-color: lightblue;
     border-radius: 12.5px;
     margin-bottom: 25%;
-    transition: 0.3s;
     object-fit: cover;
-}
-
-.links:hover {
-    background-color: rgb(50, 150, 200);
 }
 
 @media (max-width: 1000px) {
